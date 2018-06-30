@@ -1,2 +1,2 @@
 # cdda-bionics-craftable
-Mod for Cataclysm: Dark Days Ahead. Adds craftable Autodoc furniture and craftable anesthetics
+Mod for https://github.com/CleverRaven/Cataclysm-DDA. Adds craftable Autodoc furniture and craftable anesthetics
